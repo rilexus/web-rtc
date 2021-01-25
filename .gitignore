@@ -8,6 +8,7 @@
 /web-rtc-types/node_modules
 /.pnp
 .pnp.js
+/web-rtc-client/.eslintcache
 
 # testing
 /coverage
