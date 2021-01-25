@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+web-rtc-client/node_modules
+web-rtc-server/node_modules
+web-rtc-turn/node_modules
+web-rtc-types/node_modules
 /.pnp
 .pnp.js
 
