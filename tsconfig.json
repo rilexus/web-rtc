@@ -1,0 +1,9 @@
+{
+  "references": [
+    { "path": "./web-rtc-client" },
+    { "path": "./web-rtc-server" }
+  ],
+  "files": [],
+  "include": [],
+  "exclude": ["**/node_modules"]
+}
